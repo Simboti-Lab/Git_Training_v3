@@ -1,4 +1,4 @@
 This a test file for sample download
 
-And this another commit from local machineear
+And this another commit from local machine
 
