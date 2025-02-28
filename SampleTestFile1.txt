@@ -1,3 +1,7 @@
 This is Sample File 1
 
+
 Kalpana Chawla was born in Karnal, Haryana. She was called an Indian-American because she went to the US and became its naturalized citizen. She got American citizenship after marrying the American flight instructor, Jean-Pierre Harrison. Thus, we refer to her as an Indian-American.
+
+This is Comparison lecture
+>>>>>>> main
